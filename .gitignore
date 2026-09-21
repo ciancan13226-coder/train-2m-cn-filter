@@ -1,0 +1,7 @@
+output/
+mini_warehouse/
+metastore_db/
+derby.log
+__pycache__/
+.idea/
+*.pyc
